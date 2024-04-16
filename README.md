@@ -29,6 +29,8 @@ interaction based on stars from 1 to 5 and at last you can leave description as 
 
 ## PERFORMANCE MONITORING ##
 - Performance of each chat will be monitored and can be accessed at csv file named-> chatbot_metrics.csv .
+
+ if there are any more queries mail me at : dangwalshubh9@gmail.com or shubhhdangwal@gmail.com.
 - first and foremost date and time of entry is mentioned in csv file then 4 aspects of performance analysis is entered.
 - first aspect of performance is understanding rate of model i.e. out of all the queries asked by user how many of them were answered without calling in fallback assistance.
 - second aspect of performance is miss rate of faqs i.e. out of all the queries asked by user how many of them weren't already asked.
