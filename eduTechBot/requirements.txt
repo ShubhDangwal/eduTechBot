@@ -1,0 +1,6 @@
+nltk==3.6.5
+fuzzywuzzy==0.18.0
+Levenshtein==0.12.2
+torch==1.10.0
+tk==0.1.0
+numpy==1.21.5
