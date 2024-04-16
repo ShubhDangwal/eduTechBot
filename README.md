@@ -18,7 +18,7 @@ interaction based on stars from 1 to 5 and at last you can leave description as 
 - The answer of doubt assistance is selcted randomly ny shuffling so bot seems more responsive.
 - If any of these queries are asked again it will be answered as it is saved in a dictionary which will be dumped so the assistance isn't wasted.(fallback_tracing.pkl is files name for reference)
 
-## USER FEEDBACK ##'
+## USER FEEDBACK ##
 - as specified user's feedback is taken into consideration not just rating based on stars but the description as well.
 - it is even used to calculate our model's performance.
 
